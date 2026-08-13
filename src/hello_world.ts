@@ -1,4 +1,4 @@
-const greeting = 'world';
+const greeting = 'World';
 
 export function hello(world: string = greeting): string {
   if (world == "WebAcademy") {
